@@ -85,6 +85,11 @@
 
 /* ---- Modernize some Minecraft Icons from Bukkit Plugins Category ---- */
 
+/* Bukkit Icon -> Lava Bucket Icon */
+[src^="https://media.forgecdn.net/avatars/thumbnails/65/443/64/64/636162895990633284.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/lava_bucket.png);
+}
+
 /* Admin Tools */
 [src^="https://media.forgecdn.net/avatars/65/448/636162917918103026.png"] {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/command_block.png);
