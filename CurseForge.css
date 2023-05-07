@@ -1,0 +1,82 @@
+
+/* ---- Replace Thematically Inconsistent/Visually Unappealing Category Icons ---- */
+
+/* ---- Tech ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/479/64/64/635596761534662757.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/wrench_512x.png);
+}
+
+/* ---- Magic ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/474/64/64/635596760578719019.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/nitor_crystal_512x.png);
+}
+
+/* ---- Sci-Fi ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/323/64/64/635591780581068715.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/me_terminal_512x.png);
+}
+
+/* ---- Adventure & RPG ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/480/64/64/635596775049811800.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/sword_of_the_cosmos.gif);
+}
+
+/* ---- Exploration ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/486/64/64/635596815896417213.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/compass.webp);
+}
+
+/* ---- Mini Game ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/15/517/64/64/635627406184649114.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/ender_pearl_512x.png);
+}
+
+/* ---- Quests ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/487/64/64/635596816137981263.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/quest_book_512x.png);
+}
+
+/* ---- Hardcore ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/473/64/64/635596760504656528.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/hardcore_heart_512x.png);
+}
+
+/* ---- Map Based ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/475/64/64/635596760683250342.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/map_512x.png);
+}
+
+/* ---- Small/Light ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/478/64/64/635596761449660932.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/feather_512x.png);
+}
+
+/* ---- Extra Large ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/472/64/64/635596760403562826.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/tfc_anvil.png);
+}
+
+/* ---- Cobat/PvP ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/313/64/64/635591779575605594.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/tfc_swords_combat_512x.png);
+}
+
+/* ---- Multiplayer ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/481/64/64/635596792838491141.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/connection_ping_512x.png);
+}
+
+/* ---- FTB Official Packs ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/15/166/64/64/635616941825349689.png"] {
+    content: url(https://www.feed-the-beast.com/_next/static/media/logo.2265aa43.svg);
+}
+
+/* ---- Skyblock ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/162/818/64/64/636678840408956323.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/grass_block.png);
+}
+
+/* ---- Vanilla+ ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/451/388/64/64/637713564446392425.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/crafting_table.png);
+}
