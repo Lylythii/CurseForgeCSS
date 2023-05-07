@@ -80,3 +80,92 @@
 [src^="https://media.forgecdn.net/avatars/thumbnails/451/388/64/64/637713564446392425.png"] {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/crafting_table.png);
 }
+
+
+
+/* ---- Modernize some Minecraft Icons from Bukkit Plugins Category ---- */
+
+/* Admin Tools */
+[src^="https://media.forgecdn.net/avatars/65/448/636162917918103026.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/command_block.png);
+}
+
+/* Anti-Griefing Tools */
+[src^="https://media.forgecdn.net/avatars/65/449/636162917920134408.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/tnt.png);
+}
+
+/* Chat Related */
+[src^="https://media.forgecdn.net/avatars/65/450/636162917920915559.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/chat_bubble_512x.png);
+}
+
+/* Developer Tools */
+[src^="https://media.forgecdn.net/avatars/65/451/636162917921228067.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/debug_stick.webp);
+}
+
+/* Economy */
+[src^="https://media.forgecdn.net/avatars/65/452/636162917921696825.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/diamond.png);
+}
+
+/* World Editing & Management */
+[src^="https://media.forgecdn.net/avatars/65/453/636162917922321868.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/oak_door.png);
+}
+
+/* Fixes */
+[src^="https://media.forgecdn.net/avatars/65/454/636162917923103138.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/book.png);
+}
+
+/* Fun */
+[src^="https://media.forgecdn.net/avatars/65/455/636162917923415605.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/cake.png);
+}
+
+/* General */
+[src^="https://media.forgecdn.net/avatars/65/456/636162917924196887.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/apple.png);
+}
+
+/* Informational */
+[src^="https://media.forgecdn.net/avatars/65/457/636162917924665620.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/oak_sign.png);
+}
+
+/* Mechanics */
+[src^="https://media.forgecdn.net/avatars/65/458/636162917925134420.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/redstone.png);
+}
+
+/* Website Administration */
+[src^="https://media.forgecdn.net/avatars/65/459/636162917925603211.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/painting.png);
+}
+
+/* World Generators */
+[src^="https://media.forgecdn.net/avatars/65/460/636162917926071881.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/compass.webp);
+}
+
+/* Roleplaying */
+[src^="https://media.forgecdn.net/avatars/65/461/636162917926384401.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/recovery_compass.webp);
+}
+
+/* Miscellaneous */
+[src^="https://media.forgecdn.net/avatars/65/462/636162917926853172.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/slimeball.png);
+}
+
+/* Teleportation */
+[src^="https://media.forgecdn.net/avatars/65/463/636162917927634490.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/ender_pearl_512x.png);
+}
+
+/* Twitch Integration */
+[src^="https://media.forgecdn.net/avatars/thumbnails/150/337/64/64/636595916592807949.png"] {
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/TwitchGlitchPurple.svg);
+}
