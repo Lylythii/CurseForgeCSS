@@ -1,13 +1,15 @@
 /* ---- Replace Thematically Inconsistent/Visually Unappealing Category Icons ---- */
 /* ---- Tech ---- */
 [src^="https://media.forgecdn.net/avatars/thumbnails/14/479/64/64/635596761534662757.png"],
-[src^="https://media.forgecdn.net/avatars/thumbnails/14/479/30/30/635596761534662757.png"]
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/479/30/30/635596761534662757.png"],
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/27/64/64/635351494745973439.png"]
     {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/wrench_512x.png);
 }
 /* ---- Magic ---- */
 [src^="https://media.forgecdn.net/avatars/thumbnails/14/474/64/64/635596760578719019.png"],
-[src^="https://media.forgecdn.net/avatars/thumbnails/14/474/30/30/635596760578719019.png"]
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/474/30/30/635596760578719019.png"],
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/34/64/64/635351496247862494.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/nitor_crystal_512x.png);
 }
@@ -19,7 +21,8 @@
 }
 /* ---- Adventure & RPG ---- */
 [src^="https://media.forgecdn.net/avatars/thumbnails/14/480/64/64/635596775049811800.png"],
-[src^="https://media.forgecdn.net/avatars/thumbnails/14/480/30/30/635596775049811800.png"]
+[src^="https://media.forgecdn.net/avatars/thumbnails/14/480/30/30/635596775049811800.png"],
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/37/64/64/635351497295252123.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/sword_of_the_cosmos.gif);
 }
@@ -102,13 +105,13 @@
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/crafting_table.png);
 }
 /* ---- Bug Fixes ---- */
-[src^="https://media.forgecdn.net/avatars/thumbnails/934/473/30/30/638410713616155958.png"],
+[src^="https://media.forgecdn.net/avatars/thumbnails/934/473/64/64/638410713616155958.png"],
 [src^="https://media.forgecdn.net/avatars/thumbnails/451/388/30/30/638410713616155958.png"]
 {
     content: url(https://minecraft.wiki/images/Silverfish_JE1_BE1.gif);
 }
 /* ---- Performance ---- */
-[src^="https://media.forgecdn.net/avatars/thumbnails/933/987/64/64/638409849610531091.png"],
+[src^="https://media.forgecdn.net/avatars/933/987/638409849610531091.png"],
 [src^="https://media.forgecdn.net/avatars/thumbnails/933/987/30/30/638409849610531091.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/performance_512x.png);
@@ -182,6 +185,16 @@
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/redstone.png);
 }
+/* Redstone */
+[src^="https://media.forgecdn.net/avatars/thumbnails/32/937/64/64/635888173116238506.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/redstone.png);
+}
+/* Food */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/49/64/64/635351499265510402.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/bread.png);
+}
 /* Website Administration */
 [src^="https://media.forgecdn.net/avatars/65/459/636162917925603211.png"]
 {
@@ -192,13 +205,19 @@
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/compass.webp);
 }
+/* World Gen */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/26/64/64/635351494599748860.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/compass.webp);
+}
 /* Roleplaying */
 [src^="https://media.forgecdn.net/avatars/65/461/636162917926384401.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/recovery_compass.webp);
 }
 /* Miscellaneous */
-[src^="https://media.forgecdn.net/avatars/65/462/636162917926853172.png"]
+[src^="https://media.forgecdn.net/avatars/65/462/636162917926853172.png"],
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/40/64/64/635351497693711265.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/slime_ball.png);
 }
@@ -209,7 +228,43 @@
 }
 /* Twitch Integration */
 [src^="https://media.forgecdn.net/avatars/thumbnails/150/337/64/64/636595916592807949.png"],
-[src^="https://media.forgecdn.net/avatars/thumbnails/150/337/30/30/636595916592807949.png"]
+[src^="https://media.forgecdn.net/avatars/thumbnails/150/337/30/30/636595916592807949.png"],
+[src^="https://media.forgecdn.net/avatars/thumbnails/150/336/64/64/636595916053434614.png"],
+[src^="https://media.forgecdn.net/avatars/thumbnails/150/336/30/30/636595916053434614.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/TwitchGlitchPurple.svg);
+}
+
+
+
+/* ---- Resourcepacks ---- */
+/* ---- 16x ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_16x.png);
+}
+/* ---- 32x ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_32x.png);
+}
+/* ---- 64x ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_64x.png);
+}
+/* ---- 128x ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_128x.png);
+}
+/* ---- 512x & Higher ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_512x.png);
+}
+/* ---- Traditional ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/57/64/64/635351500831419880.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/wrench_512x.png);
 }
