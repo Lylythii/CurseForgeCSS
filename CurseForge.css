@@ -244,22 +244,27 @@
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_16x.png);
 }
 /* ---- 32x ---- */
-[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/77/64/64/635351599006894511.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_32x.png);
 }
 /* ---- 64x ---- */
-[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/76/64/64/635351598683223748.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_64x.png);
 }
 /* ---- 128x ---- */
-[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/78/64/64/635351599155374805.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_128x.png);
 }
+/* ---- 256x ---- */
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/79/64/64/635351599486461159.png"]
+{
+    content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_256x.png);
+}
 /* ---- 512x & Higher ---- */
-[src^="https://media.forgecdn.net/avatars/thumbnails/6/75/64/64/635351598555753321.png"]
+[src^="https://media.forgecdn.net/avatars/thumbnails/6/80/64/64/635351599620886449.png"]
 {
     content: url(https://raw.githubusercontent.com/Lylythii/CurseForgeCSS/main/icons/resourcepack_size_512x.png);
 }
